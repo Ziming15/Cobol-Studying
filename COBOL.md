@@ -25,4 +25,4 @@ Identification area is where compiler isn't run. So most people leave it blank, 
 A Area
 
 2. What division of a COBOL program would you put your name in, if you wanted other programmers to see who created it?
-Identification Division
+Identification Division.
